@@ -37,8 +37,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yankkj&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/github/repos/Yankkj?color=blue" />
-</p>
-
 ---
