@@ -10,7 +10,7 @@
 
 ---
 
-##About Me
+## About Me
 
 I'm Gon, a passionate diving deep into **Cybersecurity**. Always learning and building!
 
@@ -19,7 +19,7 @@ I'm Gon, a passionate diving deep into **Cybersecurity**. Always learning and bu
 
 ---
 
-##Get in Touch
+## Get in Touch
 
 - Discord: [`imundar`](https://discord.com/users/imundar)
 - Email: [`gonxt9@gmail.com`](mailto:gonxt9@gmail.com)
@@ -27,7 +27,7 @@ I'm Gon, a passionate diving deep into **Cybersecurity**. Always learning and bu
 
 ---
 
-##Languages and Tools
+## Languages and Tools
 
 <p>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
@@ -43,7 +43,7 @@ I'm Gon, a passionate diving deep into **Cybersecurity**. Always learning and bu
 
 ---
 
-##Certifications & Achievements
+## Certifications & Achievements
 
 Showcasing my commitment to continuous learning and skill development:
 
@@ -61,7 +61,7 @@ Showcasing my commitment to continuous learning and skill development:
 
 ---
 
-##GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yankkj&show_icons=true&theme=tokyonight" alt="Yankkj GitHub Stats" />
