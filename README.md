@@ -46,6 +46,8 @@ I'm Gon, a passionate diving deep into **Cybersecurity**. Always learning and bu
 Showcasing my commitment to continuous learning and skill development:
 
 <p>
+
+<p>
   <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Junior%20Cybersecurity%20Analyst%20Track-1C3660?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Junior Cybersecurity Analyst Track" />
   <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Ethical%20Hacker-1C3660?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker" />
   <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cybersecurity%20Threat%20Management-1C3660?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Threat Management" />
