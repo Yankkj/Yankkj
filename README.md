@@ -21,7 +21,7 @@ I'm Gon, a passionate diving deep into **Cybersecurity**. Always learning and bu
 
 ## Get in Touch
 
-- Discord: [`imundar`](https://discord.com/users/imundar)
+- Discord: [`34sp`](https://discord.com/users/34sp)
 - Email: [`gonxt9@gmail.com`](mailto:gonxt9@gmail.com)
 - Telegram: [`@feicoes`](https://t.me/feicoes)
 
