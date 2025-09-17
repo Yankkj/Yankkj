@@ -21,7 +21,7 @@ I'm Gon, a passionate diving deep into **Cybersecurity**. Always learning and bu
 
 ## Get in Touch
 
-- Discord: [`668h`](https://discord.com/users/668h)
+- Discord: [`codificou`](https://discord.com/users/codificou)
 - Email: [`gonxt9@gmail.com`](mailto:gonxt9@gmail.com)
 - Telegram: [`@feicoes`](https://t.me/feicoes)
 
