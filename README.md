@@ -52,7 +52,6 @@ Showcasing my commitment to continuous learning and skill development:
   <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Ethical%20Hacker-1C3660?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker" />
   <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cybersecurity%20Threat%20Management-1C3660?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Threat Management" />
   <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-1C3660?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity" />
-  
   <img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Bradesco-Information%20Security%20(14h)-E31B23?style=for-the-badge" alt="Fundação Bradesco Information Security" />
   <img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Bradesco-IT%20Fundamentals%20(7h)-E31B23?style=for-the-badge" alt="Fundação Bradesco IT Fundamentals" />
   <img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Bradesco-LGPD%20(2h)-E31B23?style=for-the-badge" alt="Fundação Bradesco LGPD" />
@@ -67,7 +66,6 @@ Showcasing my commitment to continuous learning and skill development:
   <img src="https://github-readme-stats.vercel.app/api?username=Yankkj&show_icons=true&theme=tokyonight" alt="Yankkj GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yankkj&layout=compact&theme=tokyonight" alt="Yankkj Top Languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yankkj&theme=tokyonight" alt="Yankkj GitHub Streak" />
 </p>
