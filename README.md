@@ -1,79 +1,94 @@
-<h1 align="center">Hey!  I'm <span style="color:#00ffff">Gon</span></h1>
-
-<p align="center">Cybersecurity Enthusiast | Perpetual Learner</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+gon+)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yankkj&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Yankkj?label=Followers&style=flat&logo=github" />
-  <img src="https://img.shields.io/github/stars/Yankkj?style=flat" />
+  <a href="https://discord.com/users/311773217645920256">
+    <img src="https://lanyard.cnrad.dev/api/311773217645920256?theme=dark&borderRadius=10px" alt="Discord Rich Presence - codificou" />
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I'm Gon, a passionate diving deep into **Cybersecurity**. Always learning and building!
+I'm Gon, learning a little **cybersecurity**.
 
--  **Cybersecurity:** Exploring network defense, ethical hacking, and digital forensics.
--  **Learning:** Lua, JavaScript, Python, HTML & CSS, Batchfile, & Shell.
+- **Learning:** Lua, JavaScript, Python, HTML & CSS, Batchfile, Shell.
 
 ---
 
 ## Get in Touch
 
-- Discord: [`codificou`](https://discord.com/users/codificou)
-- Email: [`gonxt9@gmail.com`](mailto:gonxt9@gmail.com)
+- Discord: [`codificou`](https://discord.com/users/311773217645920256)
 - Telegram: [`@feicoes`](https://t.me/feicoes)
-
----
-
-## Languages and Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Batchfile-C7172F?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
----
-
-## Certifications & Achievements
-
-Showcasing my commitment to continuous learning and skill development:
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Junior%20Cybersecurity%20Analyst%20Track-1C3660?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Junior Cybersecurity Analyst Track" />
-  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Ethical%20Hacker-1C3660?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Ethical Hacker" />
-  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cybersecurity%20Threat%20Management-1C3660?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Threat Management" />
-  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-1C3660?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity" />
-  <img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Bradesco-Information%20Security%20(14h)-E31B23?style=for-the-badge" alt="Fundação Bradesco Information Security" />
-  <img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Bradesco-IT%20Fundamentals%20(7h)-E31B23?style=for-the-badge" alt="Fundação Bradesco IT Fundamentals" />
-  <img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Bradesco-LGPD%20(2h)-E31B23?style=for-the-badge" alt="Fundação Bradesco LGPD" />
-  <img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Bradesco%20%7C%20Microsoft-Create%20a%20Simple%20Website%20(2h)-E31B23?style=for-the-badge" alt="Fundação Bradesco Create a Simple Website" />
-</p>
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yankkj&show_icons=true&theme=tokyonight" alt="Yankkj GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yankkj&layout=compact&theme=tokyonight" alt="Yankkj Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yankkj&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yankkj&theme=dark&hide_border=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yankkj&theme=dark" />
 </p>
+
+---
+
+## Certifications & Achievements
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Junior%20Cybersecurity%20Analyst%20Track-253149?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Ethical%20Hacker-253149?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Cybersecurity%20Threat%20Management-253149?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Introduction%20to%20Cybersecurity-253149?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Bradesco-Information%20Security%20(14h)-252525?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Bradesco-IT%20Fundamentals%20(7h)-252525?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Bradesco-LGPD%20(2h)-252525?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Funda%C3%A7%C3%A3o%20Bradesco%20%7C%20Microsoft-Create%20a%20Simple%20Website%20(2h)-252525?style=for-the-badge" />
+</p>
+
+---
+
+## Preferred Languages & Tools
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yankkj&theme=tokyonight" alt="Yankkj GitHub Streak" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="Next.js" width="45"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45"/>
+  </a>
+  <a href="https://www.lua.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="45"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45"/>
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="45"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%80%20Hate-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sleep-1hrs%20%2F%20day-red?style=for-the-badge&logo=coffeescript" />
-  <img src="https://img.shields.io/badge/Code%20Style-Obsessive-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Code%20Style-Obsessive-blue?style=for-the-badge&logo=github" />
 </p>
