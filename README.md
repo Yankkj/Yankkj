@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=e6dc2e&lines=Hi,+i'm+gon+)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://discord.com/users/311773217645920256">
-    <img src="https://lanyard.cnrad.dev/api/311773217645920256?theme=dark&borderRadius=10px" alt="Discord Rich Presence - codificou" />
+  <a href="https://discord.com/users/1344758973747691713">
+    <img src="https://lanyard.cnrad.dev/api/311773217645920256?theme=dark&borderRadius=10px" alt="Discord Rich Presence - revivem" />
   </a>
 </p>
 
