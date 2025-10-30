@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1344758973747691713">
-    <img src="https://lanyard.cnrad.dev/api/311773217645920256?theme=dark&borderRadius=10px" alt="Discord Rich Presence - revivem" />
+    <img src="https://lanyard.cnrad.dev/api/1344758973747691713?theme=dark&borderRadius=10px" alt="Discord Rich Presence - revivem" />
   </a>
 </p>
 
